@@ -7,14 +7,16 @@
     "Toggle1": 5
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "02/27/2022 18:31:26",
+  "HeaderLastSavedDateTimeUTC": "02/27/2022 18:42:17",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CentralTable": 0
+  },
   "OrderGroupControls": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
