@@ -1,0 +1,16 @@
+Screen1 As screen:
+
+    TextInput1 As text:
+        Default: ="Text input"
+        Visible: =vis
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Toggle1 As toggleSwitch:
+        OnCheck: =Set(vis,true)
+        OnUncheck: =Set(vis,false)
+        X: =75
+        Y: =129
+        ZIndex: =2
+

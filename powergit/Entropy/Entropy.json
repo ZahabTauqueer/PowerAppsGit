@@ -1,0 +1,42 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Screen1": 3,
+    "TextInput1": 4,
+    "Toggle1": 5
+  },
+  "FunctionParamsInvariantScripts": {},
+  "HeaderLastSavedDateTimeUTC": "02/27/2022 18:31:26",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "text": 0,
+    "toggleSwitch": 1
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Screen1": 0,
+    "TextInput1": 0,
+    "Toggle1": 1
+  },
+  "ResourcesJsonIndices": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0548175,
+    "ControlCount": {
+      "screen": 1,
+      "text": 1,
+      "toggleSwitch": 1
+    },
+    "DeserializationLoadTime": 1.457538,
+    "ErrorCount": 0
+  }
+}
