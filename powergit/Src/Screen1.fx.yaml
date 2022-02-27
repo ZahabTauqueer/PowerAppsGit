@@ -1,7 +1,7 @@
 Screen1 As screen:
 
     TextInput1 As text:
-        Default: ="Text input"
+        Default: ="Text"
         Visible: =vis
         X: =80
         Y: =40
