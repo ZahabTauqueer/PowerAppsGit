@@ -3,7 +3,7 @@ Screen1 As screen:
     TextInput1 As text:
         Default: ="Text input"
         Visible: =vis
-        X: =40
+        X: =80
         Y: =40
         ZIndex: =1
 
